@@ -10,8 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@launchdarkly/node-server-sdk": "^9.10.10",
-    "dotenv": "^17.4.1",
-    "express": "^5.1.0"
+    "dotenv": "^17.4.2",
+    "express": "^5.1.0",
+    "flagsmith-nodejs": "^8.1.2"
   }
 }
